@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("pull commit");
         System.out.println("pull commit gitee");
         System.out.println("push commit gitee");
+        System.out.println("finally commit");
     }
 }
